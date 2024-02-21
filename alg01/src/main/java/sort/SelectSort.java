@@ -1,4 +1,4 @@
-package alg01;
+package sort;
 
 /**
  * @Description: 选择排序

@@ -1,4 +1,4 @@
-package alg01;
+package sort;
 
 import java.util.Arrays;
 

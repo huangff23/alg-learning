@@ -1,4 +1,4 @@
-package alg02;
+package queuestack;
 
 import java.util.LinkedList;
 import java.util.Queue;
