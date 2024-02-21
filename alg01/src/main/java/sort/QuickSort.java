@@ -26,8 +26,8 @@ public class QuickSort {
 
     public static int[] partition(int[] arr, int l, int r){
         int less = l - 1;
-        int more = r + 1;
-        int num = r;
+        int more = r;
+        int num = arr[r];
         while(l < more){
             if(arr[l] < num){
                 less++;
